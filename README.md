@@ -1,3 +1,3 @@
 # rust-dns-server
 
-A DNS Server made in the Rust language
+A DNS Server made in Rust
